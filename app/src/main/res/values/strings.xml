@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">UIN SGD Mobile</string>
+
+    <!-- Strings related to layout/layout_header.xml-->
+
+    <!-- Strings related to Toolbar -->
+    <string name="action_tambah">Tambah</string>
+    <string name="action_batal">Batal</string>
+
+    <!-- Strings related to LihatTugasActivity -->
+    <string name="nama_matkul_judul">Mata Kuliah</string>
+    <string name="jenis_tugas_judul">Tipe Tugas</string>
+    <string name="deadline_judul">Batas Akhir</string>
+    <string name="deskripsi_tugas_judul">Deskripsi</string>
+    <string-array name="jenis_tugas">
+        <item>Terstruktur</item>
+        <item>Mandiri</item>
+        <item>Pengganti</item>
+    </string-array>
+
+    <!-- Strings related to TentangActivity -->
+    <string name="about_judul">UIN SGD Mobile</string>
+    <string name="about">Adanya aplikasi ini diharapkan dapat membantu masalah yang cukup sering dialami oleh mahasiswa. Dengan fitur notifikasi, aplikasi ini membantu mengingatkan mahasiswa agar datang ke kelas tepat waktu dan ruangan yang tepat pula.</string>
+    <string name="check_feature">Fitur :</string>
+    <string name="bullet1">- Pengingat tugas</string>
+    <string name="bullet2">- Notifikasi pengingat</string>
+    <string name="version">v0.3</string>
+    
+    <!-- Strings related to dialog_action-->
+    <string name="edit_dialog_button">Sunting</string>
+    <string name="delete_dialog_button">Hapus</string>
+
+    <string name="title_activity_tugas_baru">Atur Tugas</string>
+    <string name="title_activity_tentang">Tentang</string>
+    <string name="title_activity_lihat_tugas">Lihat Detail Tugas</string>
+</resources>
